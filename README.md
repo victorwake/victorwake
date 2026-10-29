@@ -59,6 +59,7 @@ Using AI coding tools for codebase analysis, development planning, task breakdow
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=victorwake&show_icons=true&hide=stars&theme=dracula&hide_border=true" alt="Victor's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorwake&layout=compact&theme=dracula&hide_border=true" alt="Most Used Languages" />
