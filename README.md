@@ -34,6 +34,7 @@
   ![Redux](https://img.shields.io/badge/-redux-333333?style=flat&logo=redux)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
   ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=Sequelize)
+  ![Sequelize](https://img.shields.io/badge/-Php-333333?style=flat&logo=Sequelize)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
